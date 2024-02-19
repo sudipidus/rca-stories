@@ -1,0 +1,8 @@
+baseURL: https://rca-stories.com
+languageCode: en-us
+title: "RCA-stories: collectively learning from our f*ck ups"
+theme: ananke
+
+services:
+  disqus:
+    shortname: rca-stories
